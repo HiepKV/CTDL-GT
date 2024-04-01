@@ -37,6 +37,13 @@ void selectionSort(int a[], int n){
 		}
 	}
 }
+void insertionSort(int a[], int n){
+	for (int i =0; i< n ; i++){
+		int tp= a[i];
+		int j = i -1;
+		while()
+	}
+}
 int main(){
 	int n;
     cout << "Nhap so phan tu mang : "; 
